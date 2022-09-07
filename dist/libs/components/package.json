@@ -1,0 +1,13 @@
+{
+  "name": "@treasure-chest/components",
+  "version": "0.0.1",
+  "module": "./index.js",
+  "main": "./index.js",
+  "type": "module",
+  "types": "./index.d.ts",
+  "dependencies": {},
+  "peerDependencies": {
+    "react": "18.2.0",
+    "styled-components": "5.3.5"
+  }
+}
